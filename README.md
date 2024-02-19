@@ -1,0 +1,1 @@
+IMPORTANTE, en el repositorio de documentación solo PDF terminados, los archivos los guardamos en el Drive, y cuando terminemos una versión la subimos al git en PDF y así guardamos un control de versiones de la documentación también
