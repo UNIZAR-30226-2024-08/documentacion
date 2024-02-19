@@ -3,7 +3,7 @@ name: Falta de Documentación
 about: Indica que consideras que falta en la documentación.
 title: ''
 labels: documentation, enhancement
-assignees: Lizerat
+assignees: Lizerat, Mardan170
 
 ---
 

@@ -3,7 +3,7 @@ name: Documentación Errónea
 about: Indica que error has encontrado
 title: ''
 labels: bug, documentation
-assignees: Lizerat
+assignees: Lizerat, Mardan170
 
 ---
 
